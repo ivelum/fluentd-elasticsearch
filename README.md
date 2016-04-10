@@ -1,0 +1,1 @@
+# Fluentd with Elasticsearch plugin
